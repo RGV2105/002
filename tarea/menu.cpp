@@ -6,7 +6,7 @@
 #include<iostream>
 #include<stdlib.h>
 using namespace std;
-#include "rb_libreria.h"
+#include "rb-libreria.h"
 //#include "BB_libreria.h"
 //#include "CC_libreria.h"
 //#include "DD_libreria.h"
